@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 supercomm
 ========================
 
@@ -63,3 +64,7 @@ If you want to debug the source code or look at the Javadocs of any library in t
         mvn dependency:sources
         mvn dependency:resolve -Dclassifier=javadoc
 
+=======
+supercomm
+=========
+>>>>>>> 6e8f9d922f463cf3b8ff0e8adb3af79f3ac4a6c5
